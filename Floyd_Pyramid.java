@@ -1,6 +1,6 @@
 import java.util.Scanner;
   
-public class pattern 
+public class Floyd_Pyramid
 { 
     public static void print(int n) 
     { 
