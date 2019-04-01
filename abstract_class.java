@@ -14,7 +14,7 @@ class Derived extends Base
 } 
 
 
-class Main 
+class abstract_class 
 { 
 	public static void main(String[] args) 
 	{ 
