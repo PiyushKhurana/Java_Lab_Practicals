@@ -29,7 +29,7 @@ class Box
 } 
 
  
-public class P 
+public class constructor_overload 
 { 
 	public static void main(String args[]) 
 	{  	Box mybox2 = new Box();
