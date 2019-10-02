@@ -6,7 +6,7 @@ public class Thread_alive extends Thread {
 	{ 
 		System.out.println("this is  "); 
 		try { 
-			Thread.sleep(300); 
+			Thread.sleep(500); 
 		} 
 		catch (InterruptedException ie) { 
 		} 
